@@ -1,0 +1,36 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "TalentSight PostgreSQL",
+            "database": "talentsight",
+            "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "talentsight PostgreSQL",
+            "database": "talentsight",
+            "username": "postgres",
+            "password": "saheri ada"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Saheri",
+            "database": "talentsight",
+            "username": "postgres",
+            "password": "saheri adak"
+        }
+    ]
+}
