@@ -1,0 +1,39 @@
+feature,mean_abs_shap
+Overtime Dependency,0.8643609
+Stock Option Level,0.4420056
+Age,0.43359986
+Monthly Income,0.41515803
+Career Stagnation Index,0.41484633
+Environment Satisfaction,0.34339553
+Distance From Home,0.33011115
+Salary Growth Rate,0.31798184
+Business Travel,0.31069282
+Average Bonus %,0.28302568
+Manager Stability,0.27773082
+Training Intensity,0.273914
+JobSatisfaction,0.25603387
+NumCompaniesWorked,0.24349098
+Promotion Velocity,0.2311998
+Role Stagnation,0.22935517
+RelationshipSatisfaction,0.20638911
+JobRole_Research Scientist,0.18451475
+Department_Research & Development,0.17693153
+WorkLifeBalance,0.17658626
+JobInvolvement,0.16870609
+JobRole_Laboratory Technician,0.15110113
+PercentSalaryHike,0.14637773
+Department_Sales,0.14344244
+JobLevel,0.1334311
+MaritalStatus_Single,0.113924555
+Years Since Promotion,0.10973596
+Years at Company,0.09698793
+JobRole_Sales Representative,0.07000077
+bonus_month_ratio,0.06586296
+Education,0.060281035
+JobRole_Sales Executive,0.054183647
+TrainingTimesLastYear,0.04806325
+MaritalStatus_Married,0.036303632
+JobRole_Manufacturing Director,0.004089048
+JobRole_Human Resources,0.0
+JobRole_Manager,0.0
+JobRole_Research Director,0.0
